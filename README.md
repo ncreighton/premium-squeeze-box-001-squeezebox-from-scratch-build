@@ -1,0 +1,2 @@
+# premium-squeeze-box-001-squeezebox-from-scratch-build
+Stop losing track of your bellows assembly or forgetting which reed you tuned last week. The Squeezebox from Scratch Build Planner is your single source of truth for constructing a playable instrument from raw materials.  This Notion template eliminates the chaos of building a squeezebox from scratch by providing a structured, repeatable workflow.
